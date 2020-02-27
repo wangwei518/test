@@ -23,9 +23,9 @@ license = Gitlab::License.new
 # E.g.: "This instance of GitLab Enterprise Edition is licensed to:"
 # Specific keys don't matter, but there needs to be at least one.
 license.licensee = {
-  "Name"    => "tester",
-  "Company" => "Google Inc",
-  "Email"   => "test@163.com"
+  "Name"    => "hank.wang",
+  "Company" => "who cares",
+  "Email"   => "somebody@163.com"
 }
 
 # The date the license starts. 
